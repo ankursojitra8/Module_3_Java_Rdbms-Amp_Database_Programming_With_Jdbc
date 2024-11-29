@@ -1,14 +1,14 @@
 # Module_3_Java_Rdbms-Amp_Database_Programming_With_Jdbc
 java-rdbms-jdbc/
 ├── README.md
-├── sql_queries/
-│   ├── query1_select_unique_jobs.sql
-│   ├── query2_order_emps.sql
-│   ├── query3_unique_jobs_desc.sql
-│   └── ... (Each query with descriptive names)
+    ├── sql_queries/
+    │   ├── query1_select_unique_jobs.sql
+    │   ├── query2_order_emps.sql
+    │   ├── query3_unique_jobs_desc.sql
+    │   └── ... (Each query with descriptive names)
 ├── java/
-│   ├── Module_Java_RDBMS_JDBC.pdf
-│   └── ... (Java programs related to JDBC)
+    │   ├── Module_Java_RDBMS_JDBC.pdf
+    │   └── ... (Java programs related to JDBC)
 └── database_schema/
     ├── create_dept_table.sql
     ├── create_student_table.sql
